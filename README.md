@@ -43,10 +43,15 @@ Heroku for deployment
 ---
 📷 Screenshots
 
-| Dashboard | Log Workout | AI Assistant |
+| Dashboard 
 
 <img width="1911" height="867" alt="Screenshot 2025-08-01 110208" src="https://github.com/user-attachments/assets/4b4a81da-fa0a-4d6b-80b2-36d5180f4948" />
 
+| Log Workout 
+<img width="1900" height="870" alt="Screenshot 2025-08-01 110246" src="https://github.com/user-attachments/assets/f01ed787-e723-44f8-9a77-92b687db74d6" />
+
+| AI Assistant 
+<img width="1918" height="873" alt="Screenshot 2025-08-01 110557" src="https://github.com/user-attachments/assets/1415a7be-9417-41fb-bec0-e7c7e4dc7f62" />
 
 ---
 
