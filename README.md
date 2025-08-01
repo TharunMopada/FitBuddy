@@ -44,12 +44,8 @@ Heroku for deployment
 📷 Screenshots
 
 | Dashboard | Log Workout | AI Assistant |
-|----------|-------------|--------------|
-| ![Dashboard](<img width="1911" height="867" alt="Screenshot 2025-08-01 110208" src="https://github.com/user-attachments/assets/c0abae5e-69d6-46df-a7cf-e31fc61d661d" />)
-| ![Workout](<img width="1900" height="870" alt="Screenshot 2025-08-01 110246" src="https://github.com/user-attachments/assets/b7516327-d8fb-4cfa-b690-f4c9ba2764ae" />)
-| ![AI](<img width="1918" height="873" alt="Screenshot 2025-08-01 110557" src="https://github.com/user-attachments/assets/e759fa68-9b37-46cb-8bbf-352e0fc0dc9c" />) |
 
----
+<img width="1911" height="867" alt="Screenshot 2025-08-01 110208" src="https://github.com/user-attachments/assets/4b4a81da-fa0a-4d6b-80b2-36d5180f4948" />
 
 
 ---
@@ -87,8 +83,3 @@ cd frontend
 npm install
 npm run dev
 
-
-
-##🙋‍♂️ About Me
-Tharun Mopada
-Full Stack Developer | Django Enthusiast | React | AI-Driven Apps
